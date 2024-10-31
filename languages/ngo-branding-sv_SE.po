@@ -1,0 +1,290 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NGO Branding\n"
+"POT-Creation-Date: 2017-01-22 09:44+0100\n"
+"PO-Revision-Date: 2017-01-22 09:55+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ngo-branding.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ngo-branding.php:111
+msgid "Powered by"
+msgstr "Drivs av"
+
+#: ngo-branding.php:111
+msgid "NGO-Portal"
+msgstr "NGO-Portal"
+
+#: ngo-branding.php:111
+msgid "A platform for local cooperation in the social economy."
+msgstr "En plattform för lokalt samarbete inom den sociala ekonomin."
+
+#: ngo-branding.php:127
+msgid ""
+"You have entered wrong login information. <br/> To protect your account, we "
+"will not tell if it's the password or the user name that is wrong."
+msgstr ""
+"Du har angett fel inloggningsuppgifter.<br/>För att skydda ditt konto anger "
+"vi inte om det är lösenordet eller användarnamnet som är fel."
+
+#: ngo-branding.php:191 ngo-branding.php:199
+msgid "About NGO-portal"
+msgstr "Om Föreningsportalen /NGO-portal"
+
+#: ngo-branding.php:207
+msgid "NGO portal at Github"
+msgstr "Föreningsportalen på Github"
+
+#: ngo-branding.php:215
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#: ngo-branding.php:224
+msgid "Donate"
+msgstr "Donera"
+
+#: ngo-branding.php:232
+msgid "Error reports and requests"
+msgstr "Felanmälan och önskemål"
+
+#: ngo-branding.php:245
+msgid "Welcome to NGO Portal"
+msgstr "Välkommen till Föreningsportalen /NGO-portal"
+
+#: ngo-branding.php:264
+msgid ""
+"Welcome to <a target=\\\"_blank\\\" href=\\\"https://ngo-portal.org\\\">NGO-"
+"portal</a>"
+msgstr ""
+"Välkommen till <a target=\"\\\"_blank\\\"\" href=\"\\\"https://ngo-portal.org"
+"\\\"\">NGO-portal</a>"
+
+#: ngo-branding.php:265
+msgid "NGO portal is a network for local and regional cooperation."
+msgstr "Föreningsportalen är ett nätverk för lokalt och regionalt samarbete."
+
+#: ngo-branding.php:266
+msgid ""
+"NGO portal is supported by <a target=\\\"_blank\\\" href=\\\"https://"
+"datagaraget.se\\\">https://datagaraget.se</a>"
+msgstr ""
+"NGO-portalen stöds av <a target=\"\\\"_blank\\\"\" href=\"\\\"https://"
+"datagaraget.se\\\"\">https://datagaraget.se</a>"
+
+#: ngo-branding.php:267
+msgid "Show your events in the portal calendar to show it for everybody."
+msgstr ""
+"Visa dina eventemang i portalkalendern så kommer de att visas för alla."
+
+#: ngo-branding.php:268
+msgid ""
+"Events concerning only members should only be shown in your own calendar."
+msgstr ""
+"Evenemang som endast rör medlemmar visar man enbart i sin egen kalender."
+
+#: ngo-branding.php:269
+msgid "Not so many events? View a list of events rather than a calendar."
+msgstr ""
+"Inte så många evenemang? Visa en lista över händelser istället för en "
+"kalender."
+
+#: ngo-branding.php:270
+msgid "In the portal calendar you show public events."
+msgstr "I portalkalendern visar man publika evenemang."
+
+#: ngo-branding.php:271
+msgid "Amateur Theatre Association? Show your productions in the portal."
+msgstr "Amatörteaterförening? Visa dina produktioner i portalen."
+
+#: ngo-branding.php:272
+msgid "Music Association? Show your concerts / gigs here."
+msgstr "Musikförening? Visa dina konserter / spelningar här."
+
+#: ngo-branding.php:273
+msgid "Alone is not strong. We are happy that you are using the NGO portal."
+msgstr "Ensam är inte stark. Vi är glada att du använder Föreningsportalen."
+
+#: ngo-branding.php:274
+msgid "Did you know you can show ads for your event on the portal?"
+msgstr "Visste du att du kan visa en annons för ditt evenemang på portalen?"
+
+#: ngo-branding.php:275
+msgid ""
+"Have an opinion or a suggestion? <a target=\\\"_blank\\\" href=\\\"https://"
+"ngo-portal.org/kontakt/\\\">Let us know.</a>"
+msgstr ""
+"Har en åsikt eller ett förslag? <a target=\"\\\"_blank\\\"\" href=\"\\"
+"\"https://ngo-portal.org/kontakt/\\\"\">Låt oss veta.</a>"
+
+#: ngo-branding.php:304
+msgid "Welcome to NGO-portal"
+msgstr "Välkommen till Föreningsportalen /NGO-portal"
+
+#: ngo-branding.php:310
+msgid ""
+"NGO portal is a Wordpress platform which can be used by NGO networks and "
+"others who want to create a portal with interconnected yet independent web "
+"sites to coordinate and /or show events and more in one place."
+msgstr ""
+"Föreningsportalen är en Wordpress-plattform som kan användas av "
+"föreningsnätverk och andra som vill skapa en portal med sammankopplade men "
+"ändå självständiga webbplatser för att samordna och/eller visa evenemang och "
+"mer på ett gemensamt ställe."
+
+#: ngo-branding.php:311
+msgid "NGO-portal Support."
+msgstr "Föreningsportalen Support."
+
+#: ngo-branding.php:312
+msgid "For questions and information please visit our website"
+msgstr "För frågor och information vänligen besök vår hemsida"
+
+#: ngo-branding.php:313
+msgid ""
+"Most plugins you can find on Wordpress. For source code for them see "
+"wordpress repository or "
+msgstr ""
+"De flesta tillägg hittar du på Wordpress. Källkoden för dem finns i "
+"wordpress förvaret eller "
+
+#: ngo-branding.php:314
+msgid "For source code and the latest updates for other plugins see "
+msgstr "För källkod och de senaste uppdateringarna för andra tillägg se"
+
+#: ngo-branding.php:314
+msgid "NGO-portal on"
+msgstr "Föreningsportalen på"
+
+#: ngo-branding.php:315
+msgid "For documentation see"
+msgstr "För dokumentation, se"
+
+#: ngo-branding.php:316
+msgid "Need more help? Contact the "
+msgstr "Behöver du mer hjälp? Kontakta "
+
+#: ngo-branding.php:316
+msgid "developers"
+msgstr "utvecklarna"
+
+#: ngo-branding.php:332
+msgid "Meta keyword"
+msgstr "Meta sökord"
+
+#: ngo-branding.php:369
+msgid "Slug for site-lists"
+msgstr "Slug för webbplats-listor"
+
+#: ngo-branding.php:402
+msgid "posted by"
+msgstr "publicerad av"
+
+#: ngo-branding.php:409
+msgid "Guest Author"
+msgstr "Gästförfattare"
+
+#: ngo-branding.php:415
+msgid "If guest author, enter name"
+msgstr "Ange ev. gästförfattates namn"
+
+#. Plugin Name of the plugin/theme
+msgid "NGO Branding"
+msgstr "NGO Branding"
+
+#. Plugin URI of the plugin/theme
+msgid "https://ngo-portal.org"
+msgstr "https://ngo-portal.org"
+
+#. Description of the plugin/theme
+msgid ""
+"Cleans up WordPress admin, SEO adapts, set permalinks, disables some "
+"updates, adds feature guest author and makes the NGO-Portal to feel like "
+"home. This plugin should be active on the entire portal. Many settings is "
+"dependent on the logged in users capabilities, so it does not do much more "
+"then cosmetic, SEO and security changes for network-admin, but more for site-"
+"admins and editors that will get a cleaner dashboard with the settings they "
+"need."
+msgstr ""
+"Rensar upp WordPress admin, SEO anpassar, inaktiverar vissa uppdateringar, "
+"lägger till funktionen gästförfattare och gör att Föreningsportalen känns "
+"som hemma. Denna plugin bör vara aktiv i hela portalen. Många inställningar "
+"beror på den inloggade i användarens befogenheter, så den gör inte mycket "
+"mer än kosmetiska förändringar, lite SEO och extra säkerhet för nätverks-"
+"admin, men mer för webbplats-administratörer och redigerare som får en "
+"enklare kontrollpanel med de inställningar de behöver."
+
+#. Author of the plugin/theme
+msgid "George Bredberg"
+msgstr "George Bredberg"
+
+#. Author URI of the plugin/theme
+msgid "https://datagaraget.se"
+msgstr "https://datagaraget.se"
+
+#~ msgid ""
+#~ "NGO portal is supported by <a target=\\\"_blank\\\" href=\\\"https://bona."
+#~ "nu\\\">https://bona.nu</a>"
+#~ msgstr ""
+#~ "Föreningsportalen stöds av <a target=\"_blank\" href=\"https://bona.nu"
+#~ "\">https://bona.nu</a>"
+
+#~ msgid ""
+#~ "Alone is not strong. We are happy that you are a member of the NGO portal."
+#~ msgstr ""
+#~ "Ensam är inte stark. Vi är glada att du är medlem i Föreningsportalen."
+
+#~ msgid "Did you know you can view ads for your event on the portal?"
+#~ msgstr "Visste du att du kan visa annons för ditt evenemang på portalen?"
+
+#~ msgid ""
+#~ "NGO portal is a Wordpress platform which can be used by NGO networks and "
+#~ "others who want to create portal with interconnected yet independent web "
+#~ "sites to coordinate and /or show events and more in one place."
+#~ msgstr ""
+#~ "Föreningsportalen är en Wordpress-plattform som kan användas av "
+#~ "föreningsnätverk och andra som vill skapa en portal med sammankopplade "
+#~ "men ändå självständiga webbplatser för att samordna och/eller visa "
+#~ "evenemang och mer på ett ställe."
+
+#~ msgid ""
+#~ "Cleans up WordPress admin, SEO adapts, set permalinks, disables some "
+#~ "updates, adds feature guest author and makes the NGO Portal to feel like "
+#~ "home. This plugin should be active on the entire portal. Many settings is "
+#~ "dependent on the logged in users capabilities, so it does not do much "
+#~ "more then cosmetic, SEO and security changes for network-admin, but more "
+#~ "for site-admins and editors that will get a cleaner dashboard with the "
+#~ "settings they need."
+#~ msgstr ""
+#~ "Rensar upp WordPress admin, SEO anpassar, inaktiverar vissa "
+#~ "uppdateringar, lägger till funktionen gästförfattare och gör att "
+#~ "Föreningsportalen känns som hemma. Denna plugin bör vara aktiv i hela "
+#~ "portalen. Många inställningar beror på den inloggade i användare "
+#~ "befogenheter, så den gör inte mycket mer än kosmetiska förändringar för "
+#~ "nätverks-admin, men mer för webbplats-administratörer och redigerare."
+
+#~ msgid ""
+#~ "Cleans up WordPress admin, SEO adapts, disables some updates, adds "
+#~ "feature guest author and makes the NGO Portal to feel like home. This "
+#~ "plugin should be active on the entire portal. Many settings is dependent "
+#~ "on the logged in users capabilities, so it does not do much more then "
+#~ "cosmetic changes for network-admin, but more for site-admins and editors."
+#~ msgstr ""
+#~ "Rensar upp WordPress admin, SEO anpassar, inaktiverar vissa "
+#~ "uppdateringar, lägger till funktionen gäst författare och gör att "
+#~ "Föreningsportalen känns som hemma. Denna plugin bör vara aktiv i hela "
+#~ "portalen. Många inställningar beror på den inloggade i användare "
+#~ "befogenheter, så den gör inte mycket mer än kosmetiska förändringar för "
+#~ "nätverks-admin, men mer för webbplats-administratörer och redigerare."

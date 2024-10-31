@@ -1,0 +1,210 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: NGO Branding\n"
+"POT-Creation-Date: 2017-01-22 09:44+0100\n"
+"PO-Revision-Date: 2016-12-12 20:02+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ngo-branding.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ngo-branding.php:111
+msgid "Powered by"
+msgstr ""
+
+#: ngo-branding.php:111
+msgid "NGO-Portal"
+msgstr ""
+
+#: ngo-branding.php:111
+msgid "A platform for local cooperation in the social economy."
+msgstr ""
+
+#: ngo-branding.php:127
+msgid ""
+"You have entered wrong login information. <br/> To protect your account, we "
+"will not tell if it's the password or the user name that is wrong."
+msgstr ""
+
+#: ngo-branding.php:191 ngo-branding.php:199
+msgid "About NGO-portal"
+msgstr ""
+
+#: ngo-branding.php:207
+msgid "NGO portal at Github"
+msgstr ""
+
+#: ngo-branding.php:215
+msgid "Documentation"
+msgstr ""
+
+#: ngo-branding.php:224
+msgid "Donate"
+msgstr ""
+
+#: ngo-branding.php:232
+msgid "Error reports and requests"
+msgstr ""
+
+#: ngo-branding.php:245
+msgid "Welcome to NGO Portal"
+msgstr ""
+
+#: ngo-branding.php:264
+msgid ""
+"Welcome to <a target=\\\"_blank\\\" href=\\\"https://ngo-portal.org\\\">NGO-"
+"portal</a>"
+msgstr ""
+
+#: ngo-branding.php:265
+msgid "NGO portal is a network for local and regional cooperation."
+msgstr ""
+
+#: ngo-branding.php:266
+msgid ""
+"NGO portal is supported by <a target=\\\"_blank\\\" href=\\\"https://"
+"datagaraget.se\\\">https://datagaraget.se</a>"
+msgstr ""
+
+#: ngo-branding.php:267
+msgid "Show your events in the portal calendar to show it for everybody."
+msgstr ""
+
+#: ngo-branding.php:268
+msgid ""
+"Events concerning only members should only be shown in your own calendar."
+msgstr ""
+
+#: ngo-branding.php:269
+msgid "Not so many events? View a list of events rather than a calendar."
+msgstr ""
+
+#: ngo-branding.php:270
+msgid "In the portal calendar you show public events."
+msgstr ""
+
+#: ngo-branding.php:271
+msgid "Amateur Theatre Association? Show your productions in the portal."
+msgstr ""
+
+#: ngo-branding.php:272
+msgid "Music Association? Show your concerts / gigs here."
+msgstr ""
+
+#: ngo-branding.php:273
+msgid "Alone is not strong. We are happy that you are using the NGO portal."
+msgstr ""
+
+#: ngo-branding.php:274
+msgid "Did you know you can show ads for your event on the portal?"
+msgstr ""
+
+#: ngo-branding.php:275
+msgid ""
+"Have an opinion or a suggestion? <a target=\\\"_blank\\\" href=\\\"https://"
+"ngo-portal.org/kontakt/\\\">Let us know.</a>"
+msgstr ""
+
+#: ngo-branding.php:304
+msgid "Welcome to NGO-portal"
+msgstr ""
+
+#: ngo-branding.php:310
+msgid ""
+"NGO portal is a Wordpress platform which can be used by NGO networks and "
+"others who want to create a portal with interconnected yet independent web "
+"sites to coordinate and /or show events and more in one place."
+msgstr ""
+
+#: ngo-branding.php:311
+msgid "NGO-portal Support."
+msgstr ""
+
+#: ngo-branding.php:312
+msgid "For questions and information please visit our website"
+msgstr ""
+
+#: ngo-branding.php:313
+msgid ""
+"Most plugins you can find on Wordpress. For source code for them see "
+"wordpress repository or "
+msgstr ""
+
+#: ngo-branding.php:314
+msgid "For source code and the latest updates for other plugins see "
+msgstr ""
+
+#: ngo-branding.php:314
+msgid "NGO-portal on"
+msgstr ""
+
+#: ngo-branding.php:315
+msgid "For documentation see"
+msgstr ""
+
+#: ngo-branding.php:316
+msgid "Need more help? Contact the "
+msgstr ""
+
+#: ngo-branding.php:316
+msgid "developers"
+msgstr ""
+
+#: ngo-branding.php:332
+msgid "Meta keyword"
+msgstr ""
+
+#: ngo-branding.php:369
+msgid "Slug for site-lists"
+msgstr ""
+
+#: ngo-branding.php:402
+msgid "posted by"
+msgstr ""
+
+#: ngo-branding.php:409
+msgid "Guest Author"
+msgstr ""
+
+#: ngo-branding.php:415
+msgid "If guest author, enter name"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "NGO Branding"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://ngo-portal.org"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Cleans up WordPress admin, SEO adapts, set permalinks, disables some "
+"updates, adds feature guest author and makes the NGO-Portal to feel like "
+"home. This plugin should be active on the entire portal. Many settings is "
+"dependent on the logged in users capabilities, so it does not do much more "
+"then cosmetic, SEO and security changes for network-admin, but more for "
+"site-admins and editors that will get a cleaner dashboard with the settings "
+"they need."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "George Bredberg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://datagaraget.se"
+msgstr ""

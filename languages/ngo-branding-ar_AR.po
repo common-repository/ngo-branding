@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Project-Id-Version: NGO Branding\n"
+"POT-Creation-Date: 2016-08-09 12:49+0200\n"
+"PO-Revision-Date: 2016-08-09 13:41+0200\n"
+"Language-Team: Samer Hamish <e.samerhamish@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ngo-branding.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ar\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ngo-branding.php:148
+msgid "Drivs av"
+msgstr "Powered by"
+
+#: ngo-branding.php:148
+msgid "En plattform för lokalt samarbete inom den sociala ekonomin."
+msgstr "منصة للتعاون المحلي في الاقتصاد الاجتماعي."
+
+#: ngo-branding.php:148
+msgid "För uppdateringar, frågor och hjälp besök"
+msgstr "للحصول على التحديثات والأسئلة وزيارة مساعدة"
+
+#: ngo-branding.php:148
+msgid "NGO-portalens Github"
+msgstr "NGO portal Github"
+
+#: ngo-branding.php:165
+msgid ""
+"Du har angett fel inloggningsuppgifter.<br/>För att skydda ditt konto anger "
+"vi inte om det är lösenordet eller användarnamnet som är fel."
+msgstr ""
+"لقد أدخلت معلومات تسجيل الدخول الخاصة بك. <br/> لحماية حسابك،لن نعرف ما اذا "
+"كان كلمة السر أو اسم المستخدم غير صحيح."
+
+#: ngo-branding.php:246 ngo-branding.php:255
+msgid "Om föreningsportalen"
+msgstr "عن بوابة الجمعيات"
+
+#: ngo-branding.php:264
+msgid "Föreningsportalen på Github"
+msgstr "NGO portal at Github"
+
+#: ngo-branding.php:272
+msgid "Dokumentation"
+msgstr "توثيق"
+
+#: ngo-branding.php:281
+msgid "Support Forum"
+msgstr "منتدى الدعم"
+
+#: ngo-branding.php:289
+msgid "Felanmälan och önskemål"
+msgstr "تقارير الخطأ والطلبات"
+
+#: ngo-branding.php:300 ngo-branding.php:373
+msgid "Välkommen till Föreningsportalen"
+msgstr "أهلا بكم إلى بوابة الجمعيات"
+
+#: ngo-branding.php:321
+msgid ""
+"Välkommen till <a target=\"_blank\" href=\"http://xn--freningsportalen-mwb.se"
+"\">http://föreningsportalen.se</a>"
+msgstr ""
+"أهلا بكم إلى <a target=\"_blank\" href=\"http://xn--freningsportalen-mwb.se"
+"\">http://föreningsportalen.se</a>."
+
+#: ngo-branding.php:322
+msgid "Föreningsportalen är ett nätverk för lokalt och regionalt samarbete."
+msgstr "بوابة الجمعيات (NGO Portal) هي شبكة للتعاون المحلي والاقليمي."
+
+#: ngo-branding.php:323
+msgid ""
+"Föreningsportalen stöds av <a target=\"_blank\" href=\"https://bona.nu"
+"\">https://bona.nu</a>"
+msgstr ""
+"يتم دعم بوابة الجمعية من قبل <a target=\"_blank\" href=\"https://bona.nu"
+"\">https://bona.nu</a>"
+
+#: ngo-branding.php:324
+msgid "Visa dina events i portalkalendern så kommer de att visas för alla."
+msgstr "اعرض الاحداث الخاصة بك على تقويم البوابة لتصبح مرئية للجميع."
+
+#: ngo-branding.php:325
+msgid ""
+"Evenemang som endast rör medlemmar visar man enbart i sin egen kalender."
+msgstr ""
+"الأحداث الخاصة بالأعضاء فقط يستطيع العضو رؤيتها فقط في التقويم الخاص "
+"بالجمعية ."
+
+#: ngo-branding.php:326
+msgid ""
+"Inte så många evenemang? Visa en evenemangslista istället för en kalender."
+msgstr "لايوجد أحداث كثيرة؟ اعرض لائحة الاحداث بدلا من التقويم."
+
+#: ngo-branding.php:327
+msgid "I portalkalendern visar man publika evenemang."
+msgstr "في تقويم البوابة يستطيع المرء رؤية الأحداث العامة."
+
+#: ngo-branding.php:328
+msgid "Amatörteaterförening? Visa dina produktioner i portalen."
+msgstr "جمعية هواة المسرح؟ مشاهدة عروضهم في البوابة."
+
+#: ngo-branding.php:329
+msgid "Musikförening? Visa dina konserter /spelningar här."
+msgstr "جمعية الموسيقيين؟ عرض حفلاتهم /عروضهم هنا."
+
+#: ngo-branding.php:330
+msgid "Ensam är aldrig stark. Kul att du är med i Föreningsportalen."
+msgstr "وحدك لن تكون قويا أبدا. رائع أن تكون مع بوابة الجمعيات."
+
+#: ngo-branding.php:331
+msgid "Visste du att du kan visa annons för ditt evenemang på portalen?"
+msgstr "هل تعلم بأنك تستطيع عرض إعلانات عن الاحداث الخاصة بك على البوابة؟"
+
+#: ngo-branding.php:332
+msgid ""
+"Har du synpunkter? <a target=\"_blank\" href=\"http://wally.sjostadsliv.org/"
+"kontakt/\">Hör av dig.</a>"
+msgstr ""
+"هل لديك اقتراح؟<a target=\"_blank\" href=\"http://wally.sjostadsliv.org/"
+"kontakt/\"> دعنا نعلم </a>"
+
+#: ngo-branding.php:378
+msgid ""
+"Föreningsportalen är en WordPress plattform som kan användas av "
+"föreningsnätverk och andra som vill skapa en möjlighet att samordna /visa "
+"evenemang med mera på ett gemensamt ställe."
+msgstr ""
+"بوابة الجمعيات هي منصة ووردبرس التي يمكن استخدامها من قبل شبكات الجمعيات "
+"وغيرها التي ترغب في خلق فرصة لتنسيق وعرض الاحداث وغير ذلك في مكان واحد."
+
+#: ngo-branding.php:379
+msgid "Föreningsportalen Support."
+msgstr "دعم بوابة الجمعيات"
+
+#: ngo-branding.php:380
+msgid "För frågor och information se vår webbplats"
+msgstr "للأسئلة والمعلومات زورو موقعنا"
+
+#: ngo-branding.php:381
+msgid "För dokumentation se"
+msgstr "للتوثيق زورو"
+
+#: ngo-branding.php:382
+msgid "För senaste uppdateringarna"
+msgstr "للحصول على آخر التحديثات"
+
+#: ngo-branding.php:382
+msgid "på"
+msgstr "في"
+
+#: ngo-branding.php:383
+msgid "För felanmälningar och buggrapporter"
+msgstr "للفيدباك و تقارير المشاكل (bug)"
+
+#: ngo-branding.php:384
+msgid "Behöver du ytterligare hjälp? Kontakta"
+msgstr "هلى تحتاج للمزيد من المساعدة؟ اتصل"
+
+#: ngo-branding.php:384
+msgid "utvecklarna"
+msgstr "المطورين"
+
+#: ngo-branding.php:409
+msgid "Meta sökord"
+msgstr "كلمات البحث المفتاحية"
+
+#: ngo-branding.php:441
+msgid "inlagt&nbsp;av"
+msgstr "أرسلت بواسطة"
+
+#: ngo-branding.php:448
+msgid "Gästförfattare"
+msgstr "الكاتب الضيف"
+
+#: ngo-branding.php:454
+msgid "Ange ev. gästförfattates namn"
+msgstr "كاتب ضيف؟ أدخل اسم"
+
+#. Plugin Name of the plugin/theme
+msgid "NGO Branding"
+msgstr "NGO Branding"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://xn--freningsportalen-mwb.se"
+msgstr "http://xn--freningsportalen-mwb.se"
+
+#. Description of the plugin/theme
+msgid ""
+"Rensar upp i Wordpress, SEO anpassar, inaktiverar en del uppdateringar, "
+"lägger till funktion för gästföreläsare och gör så att Föreningsportalen "
+"känns som hemma. Nätverksaktivera INTE denna plugin. Läs vår Wiki. Ska vara "
+"aktiv på hela portalen. Använd Multi-site plugin manager för detta."
+msgstr ""
+"ووردبرس نظيفة ومكيفة للمشرفين, تعطيل بعض التحديثات, يضيف ميزة التحدث كضيف و "
+"يجعل بوابة الجمعيات غير الحكومية تشعر كالمنزل. الشبكات لا تفعلو هده الاضافة."
+"اقرأ الـ Wiki الخاص بنا. يجب أن تكون مفعلة على البوابة بكاملها. استخدم اضافة "
+"مدير متعدد المواقع لهذا (Multi-site plugin manager)"
+
+#. Author of the plugin/theme
+msgid "George Bredberg"
+msgstr ""
